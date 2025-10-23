@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    --color:#3d032e;
+}
+.title{
+    font-family: "Orbitron", sans-serif;
+}
+
+@theme{
+
+    --breakpoint-xs: 480px;
+
+    --color-primary-100: #53033e;
+    --color-primary-300:#3d032e;
+    --color-primary-200: #960557;
+
+}
