@@ -13,32 +13,32 @@ const Services = () => {
 
             <div className="servicesSection grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
 
-                <div className="border border-gray-300 py-6 px-4 rounded-md">
+                <div className="border border-gray-300 py-6 px-4 rounded-md shadow-lg hover:shadow-neutral-300">
                     <h3 className='text-xl font-medium text-neutral-800 mb-2'>Responsive Web Design & Development</h3>
                     <p>I create modern, fully responsive websites that look great on every device. I make sure your website stays clean, fast, and user-friendly.</p>
                 </div>
 
-                <div className="border border-gray-300 py-6 px-4 rounded-md">
+                <div className="border border-gray-300 py-6 px-4 rounded-md shadow-lg hover:shadow-neutral-300 ">
                     <h3 className='text-xl font-medium text-neutral-800 mb-2'> Website Redesign & Optimization</h3>
                     <p>I modernize old or outdated websites, improving layouts, loading speed, and user experience — so your site not only looks better but performs better too.</p>
                 </div>
 
-                <div className="border border-gray-300 py-6 px-4 rounded-md">
+                <div className="border border-gray-300 py-6 px-4 rounded-md shadow-lg hover:shadow-neutral-300 ">
                     <h3 className='text-xl font-medium text-neutral-800 mb-2'>API Integration & Frontend Functionality</h3>
                     <p>I connect your website with real-time data using REST APIs and ensure everything works smoothly — from fetching data to displaying it beautifully.</p>
                 </div>
 
-                <div className="border border-gray-300 py-6 px-4 rounded-md">
+                <div className="border border-gray-300 py-6 px-4 rounded-md shadow-lg hover:shadow-neutral-300 ">
                     <h3 className='text-xl font-medium text-neutral-800 mb-2'>Domain Purchasing, Hosting & Deployment</h3>
                     <p>I help clients purchase domains, set up hosting, and deploy their websites. From choosing the right domain to getting your site live — I handle the complete process with zero hassle.</p>
                 </div>
 
-                <div className="border border-gray-300 py-6 px-4 rounded-md">
+                <div className="border border-gray-300 py-6 px-4 rounded-md shadow-lg hover:shadow-neutral-300 ">
                     <h3 className='text-xl font-medium text-neutral-800 mb-2'>UI to Code Conversion</h3>
                     <p>Got a design in Figma, Adobe XD, or Sketch? I’ll bring it to life with pixel-perfect accuracy using HTML, CSS, and JavaScript or React components, while keeping the code clean and maintainable.</p>
                 </div>
                 
-                <div className="border border-gray-300 py-6 px-4 rounded-md">
+                <div className="border border-gray-300 py-6 px-4 rounded-md shadow-lg hover:shadow-neutral-300 ">
                     <h3 className='text-xl font-medium text-neutral-800 mb-2'>Portfolio Design</h3>
                     <p>I create modern, fully responsive portfolio websites that look great on every device. I make sure your website stays clean, fast, and user-friendly.</p>
                 </div>
